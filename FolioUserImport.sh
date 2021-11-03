@@ -6,8 +6,6 @@
 ###
 ### Number of users is a required parameter, recommended to send in batches of 1000 or fewer
 
-cd /home/rwilson/folio_scripting
-
 okapi_url="https://okapi-YOURSITE.folio.ebsco.com"
 tenant="yourtenant"
 username="youruser"
